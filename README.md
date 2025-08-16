@@ -1,6 +1,6 @@
 ## Oi eu sou o Daniel Alves, e gosto de programar!!
 
-[![devdanizin GitHub stats](https://github-readme-stats.vercel.app/api?username=devdanizin)]
+![devdanizin GitHub stats](https://github-readme-stats.vercel.app/api?username=devdanizin)
 <div style="display: inline_block"><br>
   <img align="center" alt="Dani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Dani-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
