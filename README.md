@@ -15,11 +15,9 @@ Gosto de aprender coisas novas todos os dias e transformar ideias em código!
 
 ⚙️ Atualmente estudando arquitetura de microsserviços, APIs REST e desenvolvimento web fullstack.
 
-🕹️ Quando não estou codando, provavelmente estou jogando ou explorando ideias de games.
+🕹️ Quando não estou programando, provavelmente estou jogando algum jogo ou vivendo mundo a fora.
 
-📊 Estatísticas do GitHub
-<div> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devdanizin&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdanizin&layout=compact&theme=radical&hide_border=true"/> </div>
 📫 Onde me encontrar
 <div> <a href="https://instagram.com/crvg.danielxx" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a> <a href="mailto:devdanielprof@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"> </a> </div>
 
-⭐ “O aprendizado nunca termina — cada linha de código é uma chance de evoluir.”
+⭐ “O aprendizado nunca termina, cada linha de código é uma chance de evoluir.”
